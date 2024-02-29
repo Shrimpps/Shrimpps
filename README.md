@@ -3,17 +3,17 @@
 </p>
 
 <p align="center">
-  <img src="https://discord.com/channels/1043947134661173268/1043947134661173271/1212839355891064863"/>
+  <img src="https://cdn.discordapp.com/attachments/1043947134661173271/1212839355505315921/picmix.com_11573830.gif?ex=65f34bab&is=65e0d6ab&hm=82162351969e2d6d13edd3f4887e014ff15ca313695d8bceefbe15f10454a6c5&"/>
 </p>
 
 <p align="center">
-  <img src="https://discord.com/channels/1043947134661173268/1043947134661173271/1212839413160353892"/>
+  <img src="https://cdn.discordapp.com/attachments/1043947134661173271/1212839490872156190/zeno-remake-tsugino-haru.png?ex=65f34bcc&is=65e0d6cc&hm=3e588eb7a09a6849a9f768ca3b3de9e539a72f274f71e8d50c9a48efd5bac23a&"/>
 </p>
 
 <p align="center">
-  <img src="https://discord.com/channels/1043947134661173268/1043947134661173271/1212839448660807730"/>
+  <img src="https://cdn.discordapp.com/attachments/1043947134661173271/1212839448417411094/images.jpg?ex=65f34bc1&is=65e0d6c1&hm=120b1d295d9a9a23e2963d76e674a8dc6b8b8d3e84a4e2b5ad52dad35db768c2&"/>
 </p>
 
 <p align="center">
-  <img src="https://discord.com/channels/1043947134661173268/1043947134661173271/1212839491065348126"/>
+  <img src="https://cdn.discordapp.com/attachments/1043947134661173271/1212839412736594020/vibing-shintsumiki.gif?ex=65f34bb9&is=65e0d6b9&hm=3707048d29c5267f2f77eb89b855a91c722ff07cbfaa2a6df86e436c798e4327&"/>
 </p>
