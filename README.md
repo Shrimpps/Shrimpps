@@ -1,1 +1,1 @@
-wtf is codeing
+wtf is coding
