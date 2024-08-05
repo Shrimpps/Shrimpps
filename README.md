@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?username=Shrimpps&style=flat&color=FUCKOU&label=view+count)
+![](https://komarev.com/ghpvc/?username=Shrimpps&style=flat&color=FUCK_YOU&label=view+count)
